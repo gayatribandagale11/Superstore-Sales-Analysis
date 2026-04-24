@@ -26,7 +26,7 @@ This project focuses on analyzing business sales data to uncover key trends, ide
 
 
  📷 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="1363" height="713" alt="image" src="https://github.com/user-attachments/assets/f3eff58f-3849-4047-8ca8-d5f481446ef5" />
 
 🎯 What I Learned
 - Data cleaning and preparation techniques  
