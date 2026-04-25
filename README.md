@@ -36,19 +36,19 @@ This project focuses on analyzing business sales data to uncover key trends, ide
 - Improving business decision-making using data
 
 ## 🎯 Business Questions & Answers
-##📊 1. Which products generate the most revenue?
+📊 1. Which products generate the most revenue?
 A small number of top-selling products contribute the majority of revenue.
 The highest revenue comes from a few leading items at the top of the list (as shown in the chart), while most products contribute much less individually.
 This shows a Pareto (80/20) pattern where few products drive most sales.
 
-##📈 2. How do sales change over time?
+📈 2. How do sales change over time?
 Sales show a fluctuating upward trend over the months.
 Lowest sales: February
 Gradual growth: Mid-year (May–August)
 Peak sales: November and December
 This indicates strong seasonal growth at the end of the year.
 
-##🏷️ 3. Which categories or regions are most profitable?
+🏷️ 3. Which categories or regions are most profitable?
 Categories:
 Technology, Furniture, and Office Supplies
 Technology and Furniture contribute significantly to revenue compared to others.
@@ -58,7 +58,7 @@ East region → Strong performance
 Central → Moderate
 South → Lowest performance
 
-##🚀 4. Where should the business focus to grow faster?
+🚀 4. Where should the business focus to grow faster?
 To increase growth, the business should focus on:
 📉 Improving low-performing months (especially February)
 🌍 Boosting sales in South and Central regions
