@@ -66,5 +66,5 @@ To increase growth, the business should focus on:
 📦 Expanding high-performing categories like Technology & Furniture
 🎯 Strengthening seasonal strategies for peak months (Nov–Dec)
 
-👩‍💻 Author
+## 👩‍💻 Author
 Gayatri Bandagale
